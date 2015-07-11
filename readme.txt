@@ -1,5 +1,5 @@
 === WP Header Cleaner ===
-Contributors: chandrakeshkumar,chandgiri67,wpchandra
+Contributors: chandrakeshkumar,chandgiri67,wp-chandra
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 Tags:  clean,head header cleaner, wordpress
