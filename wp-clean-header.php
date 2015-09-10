@@ -6,7 +6,7 @@ Plugin Name: WP Header Cleaner
 Plugin URI: http://wordpress.org/extend/plugins/wp-header-cleaner/
 Description: Easy way to clean unwanted links from header & footer.
 Version: 1.0
-Author: Chandrakesh Kumar 
+Author: Chandrakesh Kumar  
 Author URI: http://www.wpchandra.com/ 
 Tags: clean,head header cleaner, wordpress
 */  
