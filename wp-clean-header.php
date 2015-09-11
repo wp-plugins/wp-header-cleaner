@@ -10,7 +10,7 @@ Author: Chandrakesh Kumar
 Author URI: http://www.wpchandra.com/ 
 Tags: clean,head header cleaner, wordpress
 */  
- 
+  
 // ===============================  WP Header Cleaner  ======================================
 class WP_Clean_Header {
 	
